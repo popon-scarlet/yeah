@@ -1,3 +1,5 @@
 Coba Github
 - Membuat repositori
 - Membuat file project
+- Membuat web
+- membuat coding
